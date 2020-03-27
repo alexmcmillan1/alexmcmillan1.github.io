@@ -1,12 +1,23 @@
 [
     {
-        "filename": "expenses.csv",
-        "fileLocation": "https://raw.githubusercontent.com/alexmcmillan1/alexmcmillan1.github.io/master/alamosandbox/expenses.csv",
-        "fileSize": 10507200
+        "filename": "file1",
+        "fileLocation": "https://raw.githubusercontent.com/alexmcmillan1/alexmcmillan1.github.io/master/alamosandbox/file1",
+        "fileSize": 5242880
+    },    {
+        "filename": "file2",
+        "fileLocation": "https://raw.githubusercontent.com/alexmcmillan1/alexmcmillan1.github.io/master/alamosandbox/file2",
+        "fileSize": 5242880
+    },    {
+        "filename": "file3",
+        "fileLocation": "https://raw.githubusercontent.com/alexmcmillan1/alexmcmillan1.github.io/master/alamosandbox/file3",
+        "fileSize": 5242880
+    },    {
+        "filename": "file4",
+        "fileLocation": "https://raw.githubusercontent.com/alexmcmillan1/alexmcmillan1.github.io/master/alamosandbox/file4",
+        "fileSize": 5242880
+    },    {
+        "filename": "file5",
+        "fileLocation": "https://raw.githubusercontent.com/alexmcmillan1/alexmcmillan1.github.io/master/alamosandbox/file5",
+        "fileSize": 5242880
     },
-    {
-        "filename": "expenses-short.csv",
-        "fileLocation": "https://raw.githubusercontent.com/alexmcmillan1/alexmcmillan1.github.io/master/alamosandbox/expenses-short.csv",
-        "fileSize": 978362
-    }
 ]
