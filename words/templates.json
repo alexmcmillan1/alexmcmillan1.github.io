@@ -1,0 +1,55 @@
+[
+	{
+		"description": "Small",
+		"imageUrl": "https://raw.githubusercontent.com/alexmcmillan1/alexmcmillan1.github.io/master/words/template-images/template-s.png",
+		"words": [
+			{
+				"starts": "1,0",
+				"direction": "down",
+				"length": 4
+			}, {
+				"starts": "3,0",
+				"direction": "down",
+				"length": 5
+			}, {
+				"starts": "0,1",
+				"direction": "across",
+				"length": 5
+			}
+		]
+	}, {
+		"description": "Medium",
+		"imageUrl": "https://raw.githubusercontent.com/alexmcmillan1/alexmcmillan1.github.io/master/words/template-images/template-m.png",
+		"words": [
+			{
+				"starts": "0,0",
+				"direction": "down",
+				"length": 5
+			}, {
+				"starts": "2,0",
+				"direction": "across",
+				"length": 3
+			}, {
+				"starts": "3,0",
+				"direction": "down",
+				"length": 8
+			}, {
+				"starts": "6,0",
+				"direction": "down",
+				"length": 6
+			}, {
+				"starts": "3,0",
+				"direction": "across",
+				"length": 5
+			}, {
+				"starts": "2,5",
+				"direction": "across",
+				"length": 6
+			}, {
+				"starts": "0,7",
+				"direction": "across",
+				"length": 6
+			}
+		]
+	}
+]
